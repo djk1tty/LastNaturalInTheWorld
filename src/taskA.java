@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class taskA {
     public static void main(String[] args) {
     // Создаем массив
         int[] arr = {1, 2, 3, 4, 5};

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main7 {
+public class reverse {
     public static void main(String[] args) {
         int[] arr = {1, 4, 7, 3, 2, 9};
 

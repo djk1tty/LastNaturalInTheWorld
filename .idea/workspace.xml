@@ -1,33 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb52e1b-e302-43d4-8269-b9cda6d81665" name="Changes" comment="" />
+    <list default="true" id="7eb52e1b-e302-43d4-8269-b9cda6d81665" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Circles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DZVeryHard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JanuaryRainFall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JanuaryRainFall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carindex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/carindex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evenodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evenodd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taskA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/taskA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taskB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/taskB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taskC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/taskC.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2Z1ogsFKYbVI6NvvlUhV0yqX2FV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,8 +65,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701599064899</updated>
-      <workItem from="1701599065912" duration="1000" />
+      <workItem from="1701599065912" duration="2321000" />
+      <workItem from="1701638765772" duration="3131000" />
+      <workItem from="1701642050217" duration="1376000" />
+      <workItem from="1701699636406" duration="3557000" />
+      <workItem from="1701715809029" duration="379000" />
+      <workItem from="1701716359451" duration="2598000" />
+      <workItem from="1702229940368" duration="4730000" />
+      <workItem from="1702302939122" duration="1644000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

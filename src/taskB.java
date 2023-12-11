@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main2 {
+public class taskB {
     public static void main(String[] args) {
 
     //Вводим число A

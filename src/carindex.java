@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main6 {
+public class carindex {
     public static void main(String[] args) {
         Random random = new Random();
 

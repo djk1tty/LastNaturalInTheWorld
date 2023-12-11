@@ -1,6 +1,6 @@
 
 
-public class Main5 {
+public class evenodd {
     public static void main(String[] args) {
 
         int[] numbers = {1, 6, 28, 3, 7, 29, 85, 90, 45, 12, 63, 24, 126};
